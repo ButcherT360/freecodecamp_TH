@@ -1,0 +1,103 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\data\azuki_kissanmintulla.png" />
+    <None Include="wwwroot\data\get out kissa.mp4" />
+    <None Include="wwwroot\data\Godtier kissa.jpg" />
+    <None Include="wwwroot\data\hajytkass.jpg" />
+    <None Include="wwwroot\data\How_to_disable_mouru.gif" />
+    <None Include="wwwroot\data\hukkunut kass.jpg" />
+    <None Include="wwwroot\data\hyvästi mouru.mp4" />
+    <None Include="wwwroot\data\häpee kissaki häpee.mp4" />
+    <None Include="wwwroot\data\ihana kisu helvettiin siitä kissa.jpg" />
+    <None Include="wwwroot\data\ihmetys kassi.jpg" />
+    <None Include="wwwroot\data\karvapallid kassipojad.jpg" />
+    <None Include="wwwroot\data\kass attack.mp4" />
+    <None Include="wwwroot\data\kass kebab.mp4" />
+    <None Include="wwwroot\data\kass kieli pitkäl touhou.jpg" />
+    <None Include="wwwroot\data\kass nuolee kieli.jpg" />
+    <None Include="wwwroot\data\kass paks.jpg" />
+    <None Include="wwwroot\data\kass säikähti.jpg" />
+    <None Include="wwwroot\data\kassa sarjakuva.jpg" />
+    <None Include="wwwroot\data\kassipoika asdasd.jpg" />
+    <None Include="wwwroot\data\kassipojad.jpg" />
+    <None Include="wwwroot\data\kissa hakkaa holopaskan.mp4" />
+    <None Include="wwwroot\data\kissa huora kicku.jpg" />
+    <None Include="wwwroot\data\kissa kalassa.jpg" />
+    <None Include="wwwroot\data\kissa kassi kass content with or without apple.jpg" />
+    <None Include="wwwroot\data\kissa party taistelu.mp4" />
+    <None Include="wwwroot\data\kissa postia.mp4" />
+    <None Include="wwwroot\data\kissa psykassi.jpg" />
+    <None Include="wwwroot\data\kissa pyyhe.jpg" />
+    <None Include="wwwroot\data\kissa saalis.mp4" />
+    <None Include="wwwroot\data\kissa saalis2.mp4" />
+    <None Include="wwwroot\data\kissa tapetaan kuoliaaksi.mp4" />
+    <None Include="wwwroot\data\kissa tequila.jpg" />
+    <None Include="wwwroot\data\kissa tissi.mp4" />
+    <None Include="wwwroot\data\kissa titanic.mp4" />
+    <None Include="wwwroot\data\kissa1.jpg" />
+    <None Include="wwwroot\data\kissainsidekissa.jpg" />
+    <None Include="wwwroot\data\kissan luukku.mp4" />
+    <None Include="wwwroot\data\kissara.jpg" />
+    <None Include="wwwroot\data\kissara2.gif" />
+    <None Include="wwwroot\data\kissaratti.jpg" />
+    <None Include="wwwroot\data\kissat egyptissä.mp4" />
+    <None Include="wwwroot\data\kissatans.mp4" />
+    <None Include="wwwroot\data\kissatietsikal.jpg" />
+    <None Include="wwwroot\data\kissatyty tarjoilija.jpg" />
+    <None Include="wwwroot\data\kissa_Ilme.jpg" />
+    <None Include="wwwroot\data\kissaööää.jpg" />
+    <None Include="wwwroot\data\lager kissatyty.jpg" />
+    <None Include="wwwroot\data\lager nirvana kissa.jpg" />
+    <None Include="wwwroot\data\leipuri mouru.mp4" />
+    <None Include="wwwroot\data\Le_kissa_face.jpg" />
+    <None Include="wwwroot\data\mad kassi sleep.jpg" />
+    <None Include="wwwroot\data\maito kass.jpg" />
+    <None Include="wwwroot\data\mouru huutistelee.jpg" />
+    <None Include="wwwroot\data\mouru keitto.jpg" />
+    <None Include="wwwroot\data\mouru povitaskus.mp4" />
+    <None Include="wwwroot\data\mouru pärk hiss.png" />
+    <None Include="wwwroot\data\mouru syö sut.mp4" />
+    <None Include="wwwroot\data\mouru tomerana mekossa.jpg" />
+    <None Include="wwwroot\data\mouru.mp4" />
+    <None Include="wwwroot\data\mouru.png" />
+    <None Include="wwwroot\data\nii kissa.mp4" />
+    <None Include="wwwroot\data\nii kissa2.mp4" />
+    <None Include="wwwroot\data\NII möreä kissa.mp4" />
+    <None Include="wwwroot\data\niin kissa.mp4" />
+    <None Include="wwwroot\data\nuuhku nuolu kissa.mp4" />
+    <None Include="wwwroot\data\nyymi piirros kissatyty.jpg" />
+    <None Include="wwwroot\data\oon tää kissa aku.jpg" />
+    <None Include="wwwroot\data\oon tää kissa.jpg" />
+    <None Include="wwwroot\data\oon tää kissaw.jpg" />
+    <None Include="wwwroot\data\ootko nahnyt tata kissaa.jpg" />
+    <None Include="wwwroot\data\orava kass.jpg" />
+    <None Include="wwwroot\data\paksu mourun luukku.mp4" />
+    <None Include="wwwroot\data\pantera kass.jpg" />
+    <None Include="wwwroot\data\pikatsu kass.jpg" />
+    <None Include="wwwroot\data\pizza wizard cat kissa.gif" />
+    <None Include="wwwroot\data\pizza wizard cat kissa.webm" />
+    <None Include="wwwroot\data\pokemon vs kissa.mp4" />
+    <None Include="wwwroot\data\pumpum tsih kissa.mp4" />
+    <None Include="wwwroot\data\pyssy kass.jpg" />
+    <None Include="wwwroot\data\rapula kissanpaska.mp4" />
+    <None Include="wwwroot\data\salapäränen kass.jpg" />
+    <None Include="wwwroot\data\satania ja kisu kissa.jpg" />
+    <None Include="wwwroot\data\sauna kassit.jpg" />
+    <None Include="wwwroot\data\seiso_kissa.jpg" />
+    <None Include="wwwroot\data\sleep cat wizard kissa nukkuu.gif" />
+    <None Include="wwwroot\data\surukissa nakit päällänsä.jpg" />
+    <None Include="wwwroot\data\thor kissa.jpg" />
+    <None Include="wwwroot\data\tonnin mouru.jpg" />
+    <None Include="wwwroot\data\tupakka kass.mp4" />
+    <None Include="wwwroot\data\wizard cat kissa katoaa taikaa.gif" />
+    <None Include="wwwroot\data\wizard kalja kissa.gif" />
+  </ItemGroup>
+
+</Project>
